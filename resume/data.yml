@@ -1,0 +1,83 @@
+/* #*/ export const PERSON = `
+# Any fields left unchanged, please delete so your resume is fully yours!
+
+name:
+  first: Harry
+  middle:
+  last: Ji
+about: Hi, my name is Harry Ji. Certified IT professional with 10+ years of Front-end and Back-end Development experience. Upgraded and enhanced my skills using cutting-edge and innovative technology, Providing one-stop creative solutions.
+position: Full-Stack Developer
+
+birth: 
+  location: New Westminster, BC, Canada
+
+# you may add more experiences by duplicating the template
+
+experience:
+- company: Super E-solutions
+  position: Developer
+  timeperiod: 2003-Present
+  
+ 
+
+education:
+- degree: Web Development Diploma
+  timeperiod: 2022
+  description: New Westminster, BC, Canada
+  website: https://www.harryji.com
+
+- degree: Bachelor of Information Tachnology 
+  description: Tianjin, China
+
+# skill level goes from 0 to 100
+skills:
+- name: HTML5
+  level: 99
+- name: CSS3
+  level: 95
+- name: JavaScript
+  level: 97
+- name: Node.js
+  level: 93
+- name: Angular 2
+  level: 60
+- name: TypeScript
+  level: 80
+- name: ES.Next
+  level: 70
+- name: Docker
+  level: 99
+knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+  (English and Mandarin).
+
+projects:
+- name: resume-vue-less-css-puppeteer
+  platform: Vue
+  timeperiod: February 2022
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+  url: https://github.com/Harryji168/resume-vue-less-css-puppeteer
+
+# optional, not all resume templates have hobbies included
+hobbies:
+- name: Video Games
+  iconClass: fa fa-gamepad
+  url: https://www.harryji.com
+
+- name: Drawing
+  iconClass: fa fa-pencil
+  url: https://www.harryji.com
+
+contributions:
+- name: resume-vue-less-css-puppeteer
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+  url: https://github.com/harryji168/resume-vue-less-css-puppeteer
+
+contact:
+  email: jiharry@hotmail.com
+  phone: 778-887-8868 
+  city: New York
+  website: harryji.com
+  github: harryji168
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
+lang: en
+`
